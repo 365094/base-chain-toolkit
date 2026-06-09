@@ -69,3 +69,4 @@ Do not commit:
 ## License
 
 MIT
+- Documentation cleanup 2026-06-09 10:08
